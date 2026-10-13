@@ -25,8 +25,6 @@
 
 ## 
 
-> Jogue diretamente no meu perfil do GitHub! (Atualizado automaticamente)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasSuzukiDSX/DouglasSuzukiDSX/output/snake.svg" />
