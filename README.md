@@ -1,10 +1,5 @@
 # Hello 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DouglasSuzukiDSX&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DouglasSuzukiDSX?label=Seguidores&style=flat-square&logo=github" alt="GitHub Followers" />
-</div>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -23,8 +18,6 @@
 
 ---
 
-## 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasSuzukiDSX/DouglasSuzukiDSX/output/snake.svg" />
@@ -34,10 +27,7 @@
 </div>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="space-between">
+<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=DouglasSuzukiDSX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSuzukiDSX&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
